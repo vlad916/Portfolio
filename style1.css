@@ -21,3 +21,9 @@ hr {
   background-image: url("assets/images/background.jpg");
   background-size: cover;
 }
+.footer {
+  background-color: rgb(107, 148, 150);
+  height: 60px;
+  margin-top: 64px;
+  text-align: center;
+}
