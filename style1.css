@@ -6,6 +6,7 @@ body {
 }
 h1 {
   font-family: serif;
+  color: rgba(214, 214, 214, 0.979);
   background-color: rgb(38, 125, 151);
   border-radius: 25px;
   padding: 15px;
@@ -14,22 +15,21 @@ h2 {
   font-family: "Shojumaru", cursive;
 }
 hr {
-  background-color: green;
-  border-width: 2px;
+  height: 1px;  
 }
 .banner1 {
   background-image: url("assets/images/background.jpg");
   background-size: cover;
 }
 .footer {
-  background-color: rgb(107, 148, 150);
+  background-color: rgb(95, 150, 153);
   height: 60px;
   margin-top: 64px;
   text-align: center;
 }
 .fa-instagram {
-    color: blueviolet;
+  color: blueviolet;
 }
 .fa-youtube {
-    color: rgb(189, 44, 44);
+  color: rgb(189, 44, 44);
 }
