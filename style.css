@@ -7,7 +7,7 @@ body {
 h1 {
   font-family: serif;
   color: rgba(214, 214, 214, 0.979);
-  background-color: rgb(38, 125, 151);
+  background-color: rgb(22, 131, 150);
   border-radius: 25px;
   padding: 15px;
 }
@@ -17,7 +17,7 @@ h2 {
 hr {
   height: 1px;
 }
-.banner1 {
+.banner {
   background-image: url("assets/images/background.jpg");
   background-size: cover;
   border-radius: 15px;
@@ -26,7 +26,6 @@ main p {
   color: rgb(148, 10, 95);
 }
 .footer {
-  background-color: rgb(95, 150, 153);
   height: 60px;
   margin-top: 64px;
   text-align: center;
@@ -37,3 +36,4 @@ main p {
 .fa-youtube {
   color: rgb(189, 44, 44);
 }
+
