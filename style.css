@@ -20,6 +20,10 @@ hr {
 .banner1 {
   background-image: url("assets/images/background.jpg");
   background-size: cover;
+  border-radius: 15px;
+}
+main p {
+  color: rgb(148, 10, 95);
 }
 .footer {
   background-color: rgb(95, 150, 153);
