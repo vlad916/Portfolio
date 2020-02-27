@@ -34,3 +34,13 @@ main p {
 .fa-youtube {
   color: rgb(189, 44, 44);
 }
+.lead {
+  background-color: green;
+  margin: 0;
+  width: 100%;
+ 
+  padding: 0px;
+  position: absolute;
+  bottom: 10px;
+  text-align: center;
+}
