@@ -25,15 +25,9 @@ hr {
 main p {
   color: rgb(148, 10, 95);
 }
-.footer {
-  height: 60px;
-  margin-top: 64px;
-  text-align: center;
-}
 .fa-instagram {
   color: blueviolet;
 }
 .fa-youtube {
   color: rgb(189, 44, 44);
 }
-
