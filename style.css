@@ -4,6 +4,9 @@ body {
 #header a:hover {
   color: red;
 }
+#header a{
+  color: rgb(197, 199, 90);
+}
 h1 {
   font-family: serif;
   color: rgba(214, 214, 214, 0.979);
