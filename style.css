@@ -4,7 +4,7 @@ body {
 #header a:hover {
   color: red;
 }
-#header a{
+#header a {
   color: rgb(197, 199, 90);
 }
 h1 {
@@ -34,13 +34,15 @@ main p {
 .fa-youtube {
   color: rgb(189, 44, 44);
 }
-.lead {
-  background-color: green;
-  margin: 0;
-  width: 100%;
- 
-  padding: 0px;
+.imageText {
+  position: relative;
+}
+.imageText p {
   position: absolute;
-  bottom: 10px;
+  bottom: 0;
+  left: 1%;
   text-align: center;
+  background-color: green;
+  width: 98.2%;
+  padding: 5px;
 }
