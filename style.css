@@ -1,5 +1,11 @@
+html {
+  height: 100%;
+}
 body {
   background-color: rgb(214, 214, 214);
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 #header a:hover {
   color: red;
@@ -25,12 +31,17 @@ hr {
   background-size: cover;
   border-radius: 15px;
 }
+main {
+  margin-right: 3%;
+  margin-left: 3%;
+  margin-bottom: 30%;
+}
 main p {
   color: rgb(148, 10, 95);
 }
 footer {
   background-image: linear-gradient(to right, #5da5bb, rgb(58, 134, 153), rgb(19, 115, 128));
- 
+  margin-top: auto;
 }
 .fa-twitter {
   color: rgb(201, 97, 37);
