@@ -40,7 +40,12 @@ main p {
   color: rgb(148, 10, 95);
 }
 footer {
-  background-image: linear-gradient(to right, #5da5bb, rgb(58, 134, 153), rgb(19, 115, 128));
+  background-image: linear-gradient(
+    to right,
+    #5da5bb,
+    rgb(58, 134, 153),
+    rgb(19, 115, 128)
+  );
   margin-top: auto;
 }
 .fa-twitter {
